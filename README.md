@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer and a Competitive Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :earth_asia: I’m Volunteer as a Web Developer at [Pixonoids](https://github.com/pixonoids) and contributing to frontend and backend for building web applications.
+- :earth_asia: I’m Volunteering as a Web Developer at [Pixonoids](https://github.com/pixonoids) and contributing to frontend and backend for building web applications.
 
 - :computer: Currently Competative programming and DSA  [Codechef](https://www.codechef.com/users/rehan_khaan), [Codeforces](https://codeforces.com/profile/rehanmm) and [Leetcode](https://leetcode.com/rehanmm/).
 
